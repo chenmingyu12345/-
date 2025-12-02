@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 拼豆图纸生成器",
+  "description": "一个拼豆图案生成器，可将图像转换为具有特定珠子调色板和统计数据的像素艺术模板。",
+  "requestFramePermissions": []
+}
